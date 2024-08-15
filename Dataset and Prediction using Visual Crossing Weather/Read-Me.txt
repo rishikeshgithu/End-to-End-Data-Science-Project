@@ -1,0 +1,8 @@
+Api Used: Visual Crossing Weather
+
+Hourly Station Data used to create the dataset 
+
+The dataset is made by P S Rishikesh.
+
+Contact No:-9972741817
+email:-rishi191003@gmail.com
